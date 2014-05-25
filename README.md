@@ -9,10 +9,10 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 Contents of this repository:
 
-run_analysis.R - The single R script used to generate a dataset output file "tidydata.txt"
-tidydata.txt - 83 variable, 180 observation output file in comma-separated value format
-CODEBOOK.md - codebook describing the contents of output dataset "tidydata.txt"
-
+1.  run_analysis.R - The single R script used to generate a dataset output file "tidydata.txt"
+2.  tidydata.txt - 83 variable, 180 observation output file in comma-separated value format
+3.  CODEBOOK.md - codebook describing the contents of output dataset "tidydata.txt"
+4.  downloaded data file and folder if script previously run (see below)
 
 Procedure to run:
 
